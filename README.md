@@ -1,30 +1,21 @@
-# BootsGuide starter template
+# BootsGuide Premium Starter v2
 
 Static HTML/CSS/JS starter for bootsguide.co.uk.
 
-## Included
-- Homepage
-- Blundstone brand hub
-- Review template: Blundstone 585
-- Comparison template: Blundstone 550 vs 585
-- Buying guide template: Best Blundstone Boots
-- About, disclosure, privacy and terms placeholders
-- Responsive navigation
-- Cloudflare Pages `_headers`
-- robots.txt and sitemap.xml
-- SVG favicon
+## What changed
+- Premium editorial design system
+- Responsive mobile navigation
+- Homepage, review, comparison, buying-guide and brand-hub templates
+- Accessible skip link and focus states
+- Article sidebars, quick-decision blocks, comparison tables and buying-guide cards
+- Placeholder commercial pages are `noindex,follow` until the real researched content replaces them
+- Sitemap intentionally contains only the homepage and About page for now
+- Affiliate buttons in unfinished templates are disabled placeholders
 
-## Cloudflare Pages
-Upload this folder to a Git repository and connect it to Cloudflare Pages. For a no-build static site:
-- Framework preset: None
-- Build command: leave empty
-- Build output directory: `/`
-
-## Before launch
-1. Replace all placeholder editorial copy with researched content.
-2. Add real affiliate URLs only after your Associates account is ready.
-3. Use Amazon's exact required disclosure wording.
-4. Replace privacy/terms placeholders with policies matching the actual services you use.
-5. Add OG/social images.
-6. Create `/reviews/`, `/comparisons/`, `/guides/` and `/brands/` index pages when enough content exists.
-7. Validate structured data and all internal links.
+## Before the SEO launch
+1. Replace placeholder copy with researched content.
+2. Remove `noindex,follow` from each finished article/hub/index page.
+3. Add finished URLs to `sitemap.xml`.
+4. Add real affiliate links using `rel="sponsored noopener"` where appropriate.
+5. Add real product/editorial images with descriptive alt text.
+6. Re-check affiliate disclosure, privacy policy and terms after analytics/cookie tools are enabled.
