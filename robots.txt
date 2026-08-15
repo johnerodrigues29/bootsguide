@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://bootsguide.co.uk/sitemap.xml
