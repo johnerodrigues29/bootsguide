@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="900" viewBox="0 0 1120 900" role="img" aria-labelledby="title desc">
+  <title id="title">Stylised leather Chelsea boot</title>
+  <desc id="desc">An editorial illustration of a brown Chelsea boot on a warm neutral background.</desc>
+  <rect width="1120" height="900" rx="52" fill="#e6dccd"/>
+  <path d="M810 82c116 48 205 149 235 274s-2 258-93 357c-91 100-240 165-393 137-152-27-309-145-353-283-44-137 24-294 150-392S694 35 810 82Z" fill="#d6c4ad"/>
+  <path d="M381 180c42-29 145-38 210-6 18 9 29 27 28 47l-20 292c-1 17 8 33 23 41 43 24 91 41 144 53 88 20 142 63 160 126 7 25-11 48-37 48H260c-31 0-52-30-42-59l27-82c7-21 25-37 47-41l89-17V180Z" fill="#5f4635"/>
+  <path d="M414 213c43-22 121-24 172-5l-17 296c-2 41 18 80 53 102 52 31 101 41 170 59 44 12 76 35 92 75H266l20-63c5-15 18-27 34-30l96-18c20-4 34-21 34-42l-36-374Z" fill="#7b5941"/>
+  <path d="M439 271c41-22 103-23 143-5l-12 190c-37 20-79 20-116 0l-15-185Z" fill="#273d35"/>
+  <path d="M404 177h52v-74c0-11 9-20 20-20h44c11 0 20 9 20 20v67" fill="none" stroke="#263c35" stroke-width="24" stroke-linecap="round"/>
+  <path d="M252 744h633" stroke="#263c35" stroke-width="21" stroke-linecap="round"/>
+  <path d="m692 599 65 96M754 618l-35 59" stroke="#9b775b" stroke-width="10" stroke-linecap="round" opacity=".8"/>
+  <circle cx="922" cy="205" r="57" fill="#263c35"/>
+  <path d="m897 205 17 17 34-39" fill="none" stroke="#fff" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="620" viewBox="0 0 900 620" role="img" aria-labelledby="title desc">
+  <title id="title">Two boots compared side by side</title>
+  <desc id="desc">Two stylised brown boots separated by a comparison mark.</desc>
+  <rect width="900" height="620" rx="32" fill="#dce3de"/>
+  <g transform="translate(40 75) scale(.62)"><path d="M285 50h190v270c0 43 29 80 71 90l108 25c54 13 91 48 108 95H149l25-78c6-20 23-35 44-39l67-12V50Z" fill="#6f503c"/><path d="M137 523h630" stroke="#263c35" stroke-width="18" stroke-linecap="round"/></g>
+  <g transform="translate(430 75) scale(.62)"><path d="M285 50h190v270c0 43 29 80 71 90l108 25c54 13 91 48 108 95H149l25-78c6-20 23-35 44-39l67-12V50Z" fill="#8a6a4e"/><path d="M137 523h630" stroke="#263c35" stroke-width="18" stroke-linecap="round"/></g>
+  <circle cx="450" cy="225" r="57" fill="#f7f6f2"/><path d="M419 210h62M419 240h62" stroke="#263c35" stroke-width="11" stroke-linecap="round"/>
+</svg>

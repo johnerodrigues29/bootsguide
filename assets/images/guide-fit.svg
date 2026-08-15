@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="620" viewBox="0 0 900 620" role="img" aria-labelledby="title desc">
+  <title id="title">Boot sizing guide illustration</title>
+  <desc id="desc">A boot outline beside a measuring scale.</desc>
+  <rect width="900" height="620" rx="32" fill="#e7dfd2"/>
+  <path d="M328 104h181v266c0 36 25 68 60 76l118 27c47 11 83 44 99 88H198l23-73c6-19 22-33 42-37l65-12V104Z" fill="#735540"/>
+  <path d="M341 116h156v249c0 47 31 88 76 99l87 20c35 8 64 30 82 59H227l15-47c4-12 14-21 27-23l72-14V116Z" fill="#8b674d"/>
+  <path d="M205 555h580" stroke="#263c35" stroke-width="14" stroke-linecap="round"/>
+  <path d="M152 92v406M128 117h48M128 181h30M128 245h48M128 309h30M128 373h48M128 437h30M128 498h48" stroke="#536b61" stroke-width="8" stroke-linecap="round"/>
+</svg>
