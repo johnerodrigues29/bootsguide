@@ -1,21 +1,15 @@
-# BootsGuide Premium Starter v2
+# BootsGuide Premium v2.1 Safe
 
-Static HTML/CSS/JS starter for bootsguide.co.uk.
+This release intentionally preserves the original starter HTML/class structure and refines the visual styling without a full redesign.
 
-## What changed
-- Premium editorial design system
-- Responsive mobile navigation
-- Homepage, review, comparison, buying-guide and brand-hub templates
-- Accessible skip link and focus states
-- Article sidebars, quick-decision blocks, comparison tables and buying-guide cards
-- Placeholder commercial pages are `noindex,follow` until the real researched content replaces them
-- Sitemap intentionally contains only the homepage and About page for now
-- Affiliate buttons in unfinished templates are disabled placeholders
+## Important cache fix
+The previous starter cached `/assets/*` for one year with `immutable`. Reusing the same `style.css` URL after changing the HTML can leave browsers serving the previous CSS.
 
-## Before the SEO launch
-1. Replace placeholder copy with researched content.
-2. Remove `noindex,follow` from each finished article/hub/index page.
-3. Add finished URLs to `sitemap.xml`.
-4. Add real affiliate links using `rel="sponsored noopener"` where appropriate.
-5. Add real product/editorial images with descriptive alt text.
-6. Re-check affiliate disclosure, privacy policy and terms after analytics/cookie tools are enabled.
+This release uses versioned files:
+- `/assets/css/style-v21.css`
+- `/assets/js/main-v21.js`
+
+It also uses development-friendly cache headers until the design stabilises.
+
+## Deployment
+Replace the current repository contents with this release, commit, and push. Cloudflare Pages should deploy automatically.
