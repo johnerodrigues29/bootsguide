@@ -1,0 +1,47 @@
+/*
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: strict-origin-when-cross-origin
+  Permissions-Policy: camera=(), microphone=(), geolocation=()
+  X-Frame-Options: SAMEORIGIN
+
+/*.html
+  Cache-Control: public, max-age=0, must-revalidate
+
+/
+  Cache-Control: public, max-age=0, must-revalidate
+
+/reviews/*
+  Cache-Control: public, max-age=0, must-revalidate
+
+/comparisons/*
+  Cache-Control: public, max-age=0, must-revalidate
+
+/guides/*
+  Cache-Control: public, max-age=0, must-revalidate
+
+/brands/*
+  Cache-Control: public, max-age=0, must-revalidate
+
+/about/*
+  Cache-Control: public, max-age=0, must-revalidate
+
+/affiliate-disclosure/*
+  Cache-Control: public, max-age=0, must-revalidate
+
+/privacy-policy/*
+  Cache-Control: public, max-age=0, must-revalidate
+
+/terms/*
+  Cache-Control: public, max-age=0, must-revalidate
+
+/assets/css/style-v2.css
+  Cache-Control: public, max-age=31536000, immutable
+
+/assets/js/main-v1.js
+  Cache-Control: public, max-age=31536000, immutable
+
+/assets/images/*
+  Cache-Control: public, max-age=31536000, immutable
+
+/favicon.svg
+  Cache-Control: public, max-age=86400
