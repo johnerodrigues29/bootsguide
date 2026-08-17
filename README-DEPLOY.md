@@ -16,6 +16,6 @@ Este pacote contém o site estático do **BootsGuide**, preparado em HTML, CSS e
 
 ## Manutenção
 
-Os arquivos de estilo e JavaScript são versionados como `style-20260817-r3.css` e `main-20260817-r3.js`; os cabeçalhos Cloudflare permitem cache longo para esses recursos, enquanto o HTML permanece revalidável. Ao alterar CSS ou JS em produção, publique sempre uma nova versão de arquivo e atualize as referências HTML. Para substituir uma publicação anterior, envie o ZIP completo e execute uma purga de cache no Cloudflare se essa opção estiver disponível.
+Os arquivos de estilo e JavaScript são versionados como `style-20260817-r4.css` e `main-20260817-r4.js`; os cabeçalhos Cloudflare permitem cache longo para esses recursos, enquanto o HTML permanece revalidável. Ao alterar CSS ou JS em produção, publique sempre uma nova versão de arquivo e atualize as referências HTML. Para substituir uma publicação anterior, envie o ZIP completo e execute uma purga de cache no Cloudflare se essa opção estiver disponível.
 
 Antes de adicionar links afiliados, substitua somente os botões desativados por URLs aprovadas. Não adicione preços, disponibilidade ou alegações de teste que não possam ser verificadas.

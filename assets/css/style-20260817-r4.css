@@ -165,16 +165,16 @@ p { margin: 0; }
 .brand-tile.is-soon:hover { color: var(--ink); background: var(--white); }
 
 /* Article pages */
-.crumbs { display: flex; flex-wrap: wrap; gap: .4rem; margin: 1.5rem 0 1.3rem; color: var(--muted); font-size: .83rem; }
+.crumbs { display: flex; flex-wrap: wrap; gap: .4rem; margin: 1.1rem 0 .85rem; color: var(--muted); font-size: .83rem; }
 .crumbs a { color: var(--forest); }
 .crumbs span { color: #999b96; }
-.article-head { padding: .4rem 0 2.5rem; border-bottom: 1px solid var(--line); }
-.article-head h1 { max-width: 18ch; margin: .7rem 0 1rem; font-size: clamp(2.25rem, 4.7vw, 4.45rem); }
+.article-head { padding: .15rem 0 1.5rem; border-bottom: 1px solid var(--line); }
+.article-head h1 { max-width: 18ch; margin: .55rem 0 .85rem; font-size: clamp(2.25rem, 4.7vw, 4.45rem); }
 .article-head .lede { max-width: 68ch; }
-.article-meta { display: flex; flex-wrap: wrap; gap: .45rem 1rem; margin-top: 1.25rem; color: var(--muted); font-size: .83rem; }
+.article-meta { display: flex; flex-wrap: wrap; gap: .45rem 1rem; margin-top: 1rem; color: var(--muted); font-size: .83rem; }
 .article-meta strong { color: var(--forest); }
-.disclosure { margin-top: 1.35rem; padding: .8rem 1rem; color: #455047; background: #f0f1ed; border-left: 3px solid var(--leather-deep); font-size: .83rem; line-height: 1.5; }
-.article-layout { display: grid; grid-template-columns: minmax(0, 1fr) 15.5rem; gap: clamp(2.5rem, 6vw, 6rem); padding-top: 2.5rem; }
+.disclosure { margin-top: 1rem; padding: .8rem 1rem; color: #455047; background: #f0f1ed; border-left: 3px solid var(--leather-deep); font-size: .83rem; line-height: 1.5; }
+.article-layout { display: grid; grid-template-columns: minmax(0, 1fr) 15.5rem; gap: clamp(2.5rem, 6vw, 6rem); padding-top: 1.65rem; }
 .article-content { min-width: 0; max-width: var(--article); }
 .article-content > * + * { margin-top: 1.35rem; }
 .article-content h2 { margin-top: 3.25rem; font-size: clamp(1.6rem, 2.6vw, 2.2rem); }
@@ -310,8 +310,8 @@ tr:last-child th, tr:last-child td { border-bottom: 0; }
   .brand-rail { grid-template-columns: repeat(2, minmax(0, 1fr)); }
   .brand-tile:nth-child(3) { border-right: 1px solid var(--line); }
   .brand-tile:nth-child(even) { border-right: 0; }
-  .article-head { padding-bottom: 2rem; }
-  .article-layout { padding-top: 1.7rem; }
+  .article-head { padding-bottom: 1.35rem; }
+  .article-layout { padding-top: 1.3rem; }
   .verdict-grid, .choice-grid { grid-template-columns: 1fr; gap: 1rem; }
   .affiliate-panel { display: block; }
   .affiliate-panel .btn { width: 100%; margin-top: 1rem; }
