@@ -19,6 +19,8 @@ Este pacote contém o site estático do **BootsGuide**, preparado em HTML, CSS e
 - Reviews completos: Blundstone 500, 550 e 585.
 - Comparações: 500 vs 585 e 550 vs 585.
 - Guias: melhores modelos, tamanhos, impermeabilidade, limpeza, caminhada, durabilidade e break-in.
+- Diretório multimarcas: Blundstone, Dr. Martens, Timberland, Red Wing e Redback.
+- Hubs futuros de Dr. Martens, Timberland, Red Wing e Redback criados com `noindex,follow` até receberem conteúdo completo.
 - Páginas de confiança: Sobre, Política Editorial e Divulgação de Afiliados.
 - Imagens oficiais de produto convertidas para WebP, com 750 × 500 px, carregamento otimizado e texto alternativo descritivo.
 
