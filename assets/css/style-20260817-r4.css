@@ -174,7 +174,7 @@ p { margin: 1; }
 .article-meta { display: flex; flex-wrap: wrap; gap: .45rem 1rem; margin-top: 1rem; color: var(--muted); font-size: .83rem; }
 .article-meta strong { color: var(--forest); }
 .disclosure { margin-top: 1rem; padding: .8rem 1rem; color: #455047; background: #f0f1ed; border-left: 3px solid var(--leather-deep); font-size: .83rem; line-height: 1.5; }
-.article-layout { display: grid; grid-template-columns: minmax(0, 1fr) 15.5rem; gap: clamp(2.5rem, 6vw, 6rem); padding-top: 2rem; padding-bottom: 2rem; }
+.article-layout { display: grid; grid-template-columns: minmax(0, 1fr) 15.5rem; gap: clamp(2.5rem, 6vw, 6rem); padding-top: 2rem; padding-bottom: 3rem; }
 .article-content { min-width: 0; max-width: var(--article); }
 .article-content > * + * { margin-top: 1.35rem; }
 .article-content h2 { margin-top: 2rem; margin-bottom: 1.2rem; font-size: clamp(1.6rem, 2.6vw, 2.2rem); }
