@@ -56,6 +56,7 @@ button { cursor: pointer; }
 .header-inner { min-height: 4.55rem; display: flex; align-items: center; justify-content: space-between; gap: var(--space-3); }
 .brand { display: inline-flex; align-items: center; gap: .65rem; flex: 0 0 auto; text-decoration: none; }
 .brand .brand-mark { display: none !important; }
+.brand::before { width: 2.05rem; height: 2.05rem; display: grid; place-items: center; flex: 0 0 auto; color: var(--white); background: var(--forest); border: 1px solid rgb(23 23 23 / 12%); border-radius: .4rem; content: "B"; font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; font-size: 1.1rem; font-weight: 700; line-height: 1; }
 .brand-name { font-size: 1.05rem; font-weight: 800; letter-spacing: -.055em; white-space: nowrap; }
 .brand-name span { color: var(--forest-2); font-weight: 650; }
 .brand-name span::before { display: inline-block; width: 1px; height: .9em; margin: 0 .18em 0 .1em; background: var(--leather-deep); content: ""; vertical-align: -.08em; }
