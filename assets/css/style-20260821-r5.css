@@ -105,7 +105,7 @@ p { margin: 1; }
 
 /* Hero */
 .hero { position: relative; padding: clamp(2.25rem, 4vw, 4.75rem) 0 var(--space-6); background: var(--paper); border-bottom: 1px solid var(--line); }
-.hero::after { position: absolute; z-index: 0; top: 0; right: 0; bottom: 0; width: min(60vw, 66rem); background: linear-gradient(80deg, var(--paper) 20%, rgb(247 246 242 / 12%) 49%, rgb(247 246 242 / 0%) 85%), url("/assets/images/bootsguide-hero-outdoor.jpg") 85% center / cover no-repeat; }
+.hero::after { position: absolute; z-index: 0; top: 0; right: 0; bottom: 0; width: min(60vw, 66rem); background: linear-gradient(90deg, var(--paper) 0%, rgb(247 246 242 / 12%) 29%, rgb(247 246 242 / 0%) 57%), url("/assets/images/bootsguide-hero-outdoor.jpg") 59% center / cover no-repeat; content: ""; }
 .hero-grid { position: relative; z-index: 1; min-height: 27rem; display: grid; align-items: center; grid-template-columns: minmax(0, .92fr) minmax(17rem, .74fr); gap: var(--space-5); }
 .hero-copy { padding: var(--space-3) 0; }
 .hero h1 { margin: .9rem 0 1.25rem; font-size: clamp(3rem, 5vw, 5.25rem); font-weight: 400; }
