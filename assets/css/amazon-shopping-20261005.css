@@ -1,0 +1,25 @@
+/* BootsGuide shopping components: text links, no Amazon logo asset. */
+.amazon-shop{margin:2rem 0;overflow:hidden;border:1px solid #d5a044;border-top:5px solid #ff9900;border-radius:16px;background:#fff8eb;scroll-margin-top:100px;box-shadow:0 10px 30px #232f3e0c}
+.amazon-shop-head{padding:1.5rem 1.5rem 1.25rem;background:#232f3e;color:#fff}
+.amazon-eyebrow{display:block;color:#ffd087;font-size:.69rem;font-weight:800;letter-spacing:.11em;line-height:1.6;margin-bottom:.6rem}
+.article-content .amazon-shop-head h2{color:#fff;margin:0 0 .5rem;font-size:clamp(1.3rem,3vw,1.8rem);line-height:1.2}
+.article-content .amazon-shop-head p{color:#e1e6ed;margin:0;font-size:.9rem}
+.amazon-products{display:grid;gap:12px;padding:1.25rem}
+.amazon-product{display:grid;grid-template-columns:90px 1fr auto;align-items:center;gap:1rem;padding:1rem;background:#fff;border:1px solid #e9ddc8;border-radius:10px;min-width:0}
+.amazon-product img{display:block;width:90px;height:75px;object-fit:contain;border-radius:6px}
+.article-content .amazon-product h3{font-size:1.05rem;color:#232f3e;margin:0 0 .3rem}
+.article-content .amazon-product p{font-size:.77rem;color:#58616b;margin:0;line-height:1.4}
+.article-content a.amazon-button{display:inline-flex;align-items:center;justify-content:center;gap:.6rem;min-height:48px;padding:.85rem 1.1rem;border:1px solid #bf7200;border-radius:8px;background:#ff9900;color:#17212c;font-family:inherit;font-weight:700;font-size:.86rem;line-height:1.35;text-decoration:none;white-space:normal;text-align:center;box-shadow:0 3px 0 #cb7900;transition:background .15s,box-shadow .15s}
+.article-content a.amazon-button:hover{background:#ffb13b;color:#111820;box-shadow:0 4px 0 #b86d00}
+.amazon-button:focus-visible,.amazon-mobile-bar a:focus-visible{outline:3px solid #1273c4;outline-offset:4px}
+.amazon-shop-foot{padding:0 1.5rem 1.25rem}
+.article-content .amazon-shop-foot p{font-size:.75rem;line-height:1.55;color:#555b64;margin:.35rem 0 0}
+.article-content .affiliate-panel.amazon-panel{display:grid;grid-template-columns:1fr;gap:1rem;border-radius:14px;background:#232f3e;border-top:5px solid #ff9900;padding:1.5rem}
+.article-content .amazon-panel h3{color:white}
+.article-content .amazon-panel .affiliate-actions{display:flex;justify-content:flex-start;gap:.85rem;margin:0;flex-wrap:wrap}
+.article-content .amazon-panel .amazon-disclosure{grid-row:3;font-size:.75rem;color:#d6dce4;margin:0}
+.amazon-mobile-bar[hidden]{display:none!important}
+.amazon-mobile-bar{display:none}
+@media(max-width:1100px){.amazon-product{grid-template-columns:80px 1fr}.amazon-product .amazon-button{grid-column:1/-1}.amazon-product img{width:80px}}
+@media(max-width:640px){.amazon-shop-head{padding:1.2rem}.amazon-products{padding:.85rem}.amazon-shop-foot{padding:0 1.1rem 1rem}.amazon-product{gap:.75rem;padding:.85rem}.article-content .amazon-panel .affiliate-actions{display:grid;grid-template-columns:1fr;width:100%}.amazon-mobile-bar{display:flex;position:fixed;bottom:0;left:0;right:0;z-index:60;align-items:center;justify-content:space-between;gap:.7rem;padding:.75rem max(1rem,env(safe-area-inset-right)) calc(.75rem + env(safe-area-inset-bottom));background:#232f3e;color:#fff;border-top:3px solid #ff9900;box-shadow:0 -5px 20px #0002;font-size:.8rem}.amazon-mobile-bar small{display:block;color:#c8d1dd;font-size:.65rem;margin-top:.2rem}.amazon-mobile-bar a{display:flex;align-items:center;gap:.6rem;background:#ff9900;color:#17212c;border-radius:7px;padding:.8rem;font-weight:800;text-decoration:none;min-height:44px}.has-amazon-shopping{padding-bottom:95px}}
+@media(prefers-reduced-motion:reduce){.amazon-button{transition:none!important}}
