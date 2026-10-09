@@ -1,6 +1,0 @@
-/* Native stretched links preserve keyboard access and open-in-new-tab actions. */
-.clickable-card{position:relative;isolation:isolate;cursor:pointer}
-.clickable-card .card-primary-link{position:static;transform:none}
-.clickable-card .card-primary-link::before{content:"";position:absolute;inset:0;z-index:2}
-.clickable-card:focus-within{outline:3px solid #1273c4;outline-offset:4px}
-.clickable-card a:not(.card-primary-link),.clickable-card button{position:relative;z-index:3}
