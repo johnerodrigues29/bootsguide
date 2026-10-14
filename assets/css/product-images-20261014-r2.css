@@ -1,0 +1,4 @@
+/* A portrait product image must not set the intrinsic height of a landscape grid cell. */
+.boot-2976-frame{position:relative;display:block;aspect-ratio:3/2;min-height:0;overflow:hidden}
+.boot-2976-frame>.boot-2976-image{position:absolute;inset:0;width:100%;height:100%;max-width:100%;max-height:100%;min-width:0;min-height:0;padding:12px;box-sizing:border-box;object-fit:contain;object-position:center;transform:none!important}
+.amazon-product>.boot-2976-image{object-fit:contain;object-position:center;max-width:100%;height:75px;transform:none}
