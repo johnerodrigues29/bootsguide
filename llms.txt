@@ -66,3 +66,8 @@ The Dr. Martens hub now includes a researched 2976 Smooth review.
 - [Comparisons index](https://bootsguide.co.uk/comparisons/): All published side-by-side comparisons.
 - [Guides index](https://bootsguide.co.uk/guides/): All published buying and ownership guides.
 - [XML sitemap](https://bootsguide.co.uk/sitemap.xml): Complete list of indexable public pages.
+
+## Timberland coverage
+
+- [Timberland hub](https://bootsguide.co.uk/brands/timberland/): Adult Premium range and buying advice.
+- [Timberland 6-Inch Premium Waterproof Boot Review](https://bootsguide.co.uk/reviews/timberland-6inch-premium-waterproof-boot-review/): Researched adult reference review; fit, weather, care and retailer variant checks.
