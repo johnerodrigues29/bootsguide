@@ -33,3 +33,5 @@ Usar sempre a versão mais recente deste pacote como base.
 - Todos os comparativos: título exato `More comparisons`, cards exclusivamente de outros comparativos (`/comparisons/`), com a dupla correta de botas.
 - Não usar títulos alternativos como Continue comparing, Continue researching, Compare before buying ou Read the full reviews nessas seções. Não misturar categorias.
 - Essas regras se aplicam somente à seção final de cards relacionados: links úteis no corpo do artigo podem continuar apontando para reviews, comparações e guias.
+
+- 16/10/2026: preparado comparativo 585 vs Dr. Martens 2976 YS Smooth (22227001), sem publicação automática. Links afiliados originais preservados; foto dupla, More comparisons, hubs e índice de busca atualizados.
