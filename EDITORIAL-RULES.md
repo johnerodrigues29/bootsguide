@@ -35,3 +35,6 @@ Usar sempre a versão mais recente deste pacote como base.
 - Essas regras se aplicam somente à seção final de cards relacionados: links úteis no corpo do artigo podem continuar apontando para reviews, comparações e guias.
 
 - 16/10/2026: preparado comparativo 585 vs Dr. Martens 2976 YS Smooth (22227001), sem publicação automática. Links afiliados originais preservados; foto dupla, More comparisons, hubs e índice de busca atualizados.
+
+## 19 October 2026 — 1460 preparation
+Prepared /reviews/dr-martens-1460-smooth-review/; not deployed. Reference adult black 11822006. Preserve affiliate https://link.amazon/B0hfTAIbd; user supplied replacement affiliate link; keep the standard selected-variant check. Latest review is the single Reviews feature; previous feature moves to smaller cards. Keep Related guides review-only, update search and sitemap with each article, and use the same uncropped white-background product asset everywhere.
