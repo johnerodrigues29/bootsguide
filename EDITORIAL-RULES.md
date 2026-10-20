@@ -38,3 +38,6 @@ Usar sempre a versão mais recente deste pacote como base.
 
 ## 19 October 2026 — 1460 preparation
 Prepared /reviews/dr-martens-1460-smooth-review/; not deployed. Reference adult black 11822006. Preserve affiliate https://link.amazon/B0hfTAIbd; user supplied replacement affiliate link; keep the standard selected-variant check. Latest review is the single Reviews feature; previous feature moves to smaller cards. Keep Related guides review-only, update search and sitemap with each article, and use the same uncropped white-background product asset everywhere.
+
+## 20 October 2026
+Prepared /comparisons/blundstone-566-vs-585/; publication pending. Official UK sources checked; existing 566/585 affiliate URLs preserved. Two-boot layout and comparison-only More comparisons maintained. No personal testing or live retailer stock claimed.
