@@ -51,3 +51,5 @@ Prepared /guides/dr-martens-size-guide/; publication pending. Current official U
 - Ao adicionar artigos, atualizar também os totais visíveis na home (reviews, comparações e guides), conferindo a quantidade real de páginas. Em 22/10/2026: 8 guides.
 
 - Guias: seção final Related reading deve conter somente outros guias em /guides/, nunca reviews ou comparativos. Manter dois cards, sem repetir o artigo atual.
+
+- 22/10: Related reading padronizado nos oito guias, com dois cards somente de outros guias. Aviso final usa .disclosure.disclosure-end e texto Affiliate disclosure: BootsGuide may earn a commission from qualifying purchases. This never changes the price you pay or the specifications we report. Preservar também o aviso Amazon nos blocos de compra.
