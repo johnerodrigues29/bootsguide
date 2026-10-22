@@ -47,3 +47,5 @@ Same URL /reviews/blundstone-585/; publication pending. Updated fit checklist, c
 
 ## 22 October 2026 — sizing guide prepared
 Prepared /guides/dr-martens-size-guide/; publication pending. Current official UK chart checked, including 6.5 and 9.5. Original 1460/2976 affiliate URLs preserved. Integrated home, Guides, brand hub, search and sitemap; contextual review links retain review-only related cards. No stock or hands-on testing claimed.
+
+- Ao adicionar artigos, atualizar também os totais visíveis na home (reviews, comparações e guides), conferindo a quantidade real de páginas. Em 22/10/2026: 8 guides.
