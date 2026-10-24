@@ -53,3 +53,6 @@ Prepared /guides/dr-martens-size-guide/; publication pending. Current official U
 - Guias: seção final Related reading deve conter somente outros guias em /guides/, nunca reviews ou comparativos. Manter dois cards, sem repetir o artigo atual.
 
 - 22/10: Related reading padronizado nos oito guias, com dois cards somente de outros guias. Aviso final usa .disclosure.disclosure-end e texto Affiliate disclosure: BootsGuide may earn a commission from qualifying purchases. This never changes the price you pay or the specifications we report. Preservar também o aviso Amazon nos blocos de compra.
+
+## 23 October 2026
+Prepared Timberland Premium vs 566 comparison; not published. Original affiliate links retained, paired imagery, comparison-only More comparisons, home count, hubs and search updated. UK manufacturer sources checked; no live Amazon stock or hands-on test claimed.
