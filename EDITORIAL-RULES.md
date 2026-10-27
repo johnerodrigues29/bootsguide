@@ -56,3 +56,6 @@ Prepared /guides/dr-martens-size-guide/; publication pending. Current official U
 
 ## 23 October 2026
 Prepared Timberland Premium vs 566 comparison; not published. Original affiliate links retained, paired imagery, comparison-only More comparisons, home count, hubs and search updated. UK manufacturer sources checked; no live Amazon stock or hands-on test claimed.
+
+## 26 October 2026
+Prepared UBOK review; not deployed. Affiliate https://link.amazon/B0dHGZPxZ preserved; destination not independently verified. Official UK product, sizing and care checked. Original manufacturer photo in uncropped 3:2 CSS frames. Reviews feature unique, old feature demoted; home 14 reviews, Redback hub active, search and sitemap updated. Related guides contains only reviews. No wear test claimed.
