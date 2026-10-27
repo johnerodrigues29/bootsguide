@@ -59,3 +59,5 @@ Prepared Timberland Premium vs 566 comparison; not published. Original affiliate
 
 ## 26 October 2026
 Prepared UBOK review; not deployed. Affiliate https://link.amazon/B0dHGZPxZ preserved; destination not independently verified. Official UK product, sizing and care checked. Original manufacturer photo in uncropped 3:2 CSS frames. Reviews feature unique, old feature demoted; home 14 reviews, Redback hub active, search and sitemap updated. Related guides contains only reviews. No wear test claimed.
+
+27 October 2026: 2056 vs 500 comparison prepared, not deployed. Existing exact Amazon links preserved. Home: 14 reviews, 13 comparisons, 8 guides.
