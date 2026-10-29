@@ -79,3 +79,6 @@ Per the user: /brands/red-wing/ removed from the sitemap again (no Red Wing revi
 
 ## 29 October 2026 — sitemap final
 Per the user: /editorial-policy/ and /affiliate-disclosure/ kept in the sitemap (lastmod 2026-08-21). /brands/red-wing/ stays out (noindex, no reviews yet). /privacy-policy/, /terms/, /search/ and 404 stay out. Sitemap: 48 URLs.
+
+## 29 October 2026 — /guides/ image fix
+Cause: guides/index.html did not load product-images-20261014-r3.css, so .product-photo-frame had no styling and the near-square Redback UBOK photo (1080x1021) overflowed the 3:2 card and was cropped (the Dr. Martens card only looked fine because its PNG is already 3:2). Added the stylesheet to the head of guides/index.html (same position as in the other pages). Audited all pages: every page that uses .product-photo-frame now loads that CSS. Not verified in a browser from the build environment; check /guides/ visually before deploying.
