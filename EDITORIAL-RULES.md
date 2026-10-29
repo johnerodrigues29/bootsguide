@@ -67,3 +67,15 @@ Same URL /reviews/blundstone-500/; publication pending. Official UK #500 page, s
 
 ## 28 October 2026 — Amazon links standardised
 User-supplied Amazon shortlinks now used site-wide: 585 https://link.amazon/B08aNDPOQ; 550 https://link.amazon/B0bIAT4EV; 2056 https://link.amazon/B04WLYBQF; 566 https://link.amazon/B05oYjbLG; 510 https://link.amazon/B0dUPlMEf (replaced the /s search link); 558 https://link.amazon/B07rJmFRm and 587 https://link.amazon/B09G5k4hH (replaced amzn.to); 500 https://link.amazon/B0bEQV2h8. All Amazon buttons now start with https://link.amazon/. Links were not independently verified; test each destination (model, colour, UK size) before publishing.
+
+## 29 October 2026 — Redback size guide prepared
+Prepared /guides/redback-size-guide/; publication pending. Sources checked 29 October: Redback USA sizing page, a trade distributor's Redback size guide (conversion table, foot length, half-size width) and UK retailer sizing notes (labelled as retailer advice). Redback UK size guide cited as last checked 26 October (UBOK review); it could not be re-fetched. Source conflict on width (G vs B-EEE) stated, not resolved. Affiliate https://link.amazon/B0dHGZPxZ (UBOK) preserved, destination not verified. Integrated: guides index (new first card), home latest grid (9 guides), Redback hub, search, sitemap, llms.txt; contextual link added in UBOK review. Related reading contains only the Blundstone and Dr. Martens size guides. No stock, hands-on test or Search Console data claimed.
+
+## 29 October 2026 — sitemap and comparisons card
+Sitemap rewritten and ordered (home, reviews, comparisons, guides, brands, trust pages): 49 URLs, all indexable pages included plus /brands/red-wing/ at the user's request. Left out on purpose: /privacy-policy/, /terms/ (no contact page exists), /search/ and 404. Note: /brands/red-wing/ is still noindex,follow and says it will stay out of search until its first article cluster is ready, so Search Console may report it as "submitted URL marked noindex"; decide whether to switch it to index or remove it from the sitemap. Fixed the featured-card button on /comparisons/: it read "Compare 1609 & 585" and now reads "Compare 2056 & 500" for the 2056 vs 500 article. All 16 "Compare X & Y" buttons site-wide checked against their URLs.
+
+## 29 October 2026 — sitemap correction
+Per the user: /brands/red-wing/ removed from the sitemap again (no Red Wing reviews yet; it stays noindex until the first article cluster exists) and /editorial-policy/ and /affiliate-disclosure/ removed as well. Sitemap now has 46 URLs. Removal from the sitemap does not by itself stop indexing: those two pages are still indexable (index,follow) and linked from the footer; add noindex only if the user wants them out of search results.
+
+## 29 October 2026 — sitemap final
+Per the user: /editorial-policy/ and /affiliate-disclosure/ kept in the sitemap (lastmod 2026-08-21). /brands/red-wing/ stays out (noindex, no reviews yet). /privacy-policy/, /terms/, /search/ and 404 stay out. Sitemap: 48 URLs.
