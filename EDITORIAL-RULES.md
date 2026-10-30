@@ -1,3 +1,11 @@
+# Regras vigentes — preferência do usuário em 30/10/2026
+
+- Legendas de imagens: somente nome do modelo e cor; em comparativos, nomes dos dois modelos. Sem SKU, descrição técnica da foto ou menção a edição/geração por IA.
+- Ao lado do autor, mostrar apenas a data. Não usar Prepared, source-checked, fact-checked ou avisos de bastidores.
+- Não acrescentar avisos de geração por IA aos artigos. Usar linguagem natural, sem inventar testes ou experiência pessoal. Manter fontes e limitações factuais relevantes.
+- Timberland Premium 6-Inch Yellow: link afiliado aprovado pelo usuário https://link.amazon/B03HVgBKR. Substitui o link anterior em todos os artigos. Aprovação do usuário não equivale a uma nova verificação independente do destino.
+- Estas preferências substituem instruções históricas abaixo sobre legendas de IA ou o link antigo. Manter botões Amazon, aviso de comissão e atalho móvel.
+
 # BootsGuide — regras para os próximos artigos
 
 Usar sempre a versão mais recente deste pacote como base.
@@ -91,3 +99,7 @@ Audit (static; Lighthouse/PageSpeed could not be run from the build environment)
 
 ## 29 October 2026 — Blundstone 1609 images localised
 The three Blundstone 1609 photos that were hotlinked from blundstone.co.uk (front/profile, pair, lifestyle) are now local WebP files at 750x500: assets/images/blundstone-1609-front.webp, -pair.webp, -life.webp. Source: the Blundstone UK product photos supplied by the user. First version used 500x500 files (upscaled, soft); replaced the same day with the 1600x1600 originals, downscaled to 750x500 for sharpness. Studio shots: off-white background levelled to white, boot cropped and centred; the lifestyle photo is cropped to 3:2. All 38 references updated (img, preload, og:image, twitter:image, schema). No external images remain on the site. Script kept as localizar_imagens_1609.py (outside the site folder).
+
+
+## 30 October 2026 — Timberland size guide prepared, publication held
+Prepared /guides/timberland-size-guide/ using the existing guide layout. Checked official UK adult Yellow Premium TB110061713 product identity, specifications, UK size labels, linked variant codes and reported partial stock. The separate official conversion chart could not be retrieved (403); no numerical conversions or blanket size-down instruction added. Existing affiliate https://link.amazon/B0fu5lBL2 was checked and returned conflicting Junior/Boys title, Black selection and model codes; retained with an explicit warning, not verified as the exact adult reference. Replace with a user-approved exact adult-model link and recheck the chart before release. Search-intent hypothesis is informational/commercial sizing research; live SERP validation failed, no volume claimed. Home now 10 guides; guides index, Timberland hub, review/comparison contextual links, search index, sitemap (49 URLs) and llms.txt updated in this prepared package. Related reading has two other guides only. Amazon classes, affiliate tag, commission disclosure and mobile shortcut preserved. Not deployed; calendar remains Planejado.
