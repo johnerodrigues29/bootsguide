@@ -1,36 +1,17 @@
-# BootsGuide — pacote estático para Cloudflare Pages
+# Publicar o BootsGuide
 
-Este pacote contém o site estático do **BootsGuide**, preparado em HTML, CSS e JavaScript puro. Não há dependência de WordPress, React, Node.js ou qualquer processo de build para a publicação.
+Site completo em HTML, CSS e JavaScript estáticos. Não há instalação nem comando de build.
 
-## Publicação no Cloudflare Pages
+1. Extraia o ZIP.
+2. No projeto existente do Cloudflare Pages, envie o conteúdo extraído como uma nova implantação. index.html, _headers, _redirects, robots.txt e sitemap.xml ficam na raiz.
+3. Preserve domínio, DNS e redirecionamentos de domínio existentes.
+4. Abra home, guias revisados e Timberland; confira busca, botões Amazon e atalho no celular.
+5. Registre a data real no calendário e conte o acompanhamento a partir dela. Use a inspeção de URLs do Search Console se necessário, sem repetir solicitações diariamente.
 
-| Etapa | Ação |
-| --- | --- |
-| 1 | Extraia o arquivo ZIP sem alterar a estrutura de pastas. |
-| 2 | No Cloudflare Pages, crie um projeto de **Direct Upload** ou configure o repositório GitHub. |
-| 3 | Faça upload do conteúdo da pasta extraída; `index.html`, `_headers`, `robots.txt` e `sitemap.xml` devem ficar na raiz. |
-| 4 | Aponte o domínio `bootsguide.co.uk` e mantenha o redirecionamento de `www` para o domínio raiz configurado no Cloudflare. |
-| 5 | Depois que o domínio estiver ativo, envie o sitemap em `https://bootsguide.co.uk/sitemap.xml` ao Google Search Console. |
+Inventário: 14 reviews, 13 comparativos e 10 guias. Sitemap com 49 URLs e exclusões anteriores preservadas. Revisões mantêm suas URLs.
 
-> **Nota editorial:** os reviews, comparações, guias, páginas de categoria e hubs finalizados estão liberados para indexação. `404.html`, Política de Privacidade, Termos e os quatro hubs de marcas ainda em preparação permanecem com `noindex,follow`. O sitemap contém as 22 URLs editoriais indexáveis e foi atualizado em 25/08/2026.
+_redirects encaminha a antiga variante da URL de caminhada para a página atual. HTTP/www continuam sob a configuração do domínio no Cloudflare.
 
-## Conteúdo incluído
+Mantenha estilos e scripts versionados, tags afiliadas e avisos de comissão. A configuração de analytics existente foi preservada. O calendário é entregue separadamente do site.
 
-- Reviews completos: Blundstone 500, 550, 585 e 2056.
-- Comparações: 500 vs 585 e 550 vs 585.
-- Guias: melhores modelos, tamanhos, impermeabilidade, limpeza, caminhada, durabilidade e break-in.
-- Diretório multimarcas: Blundstone, Dr. Martens, Timberland, Red Wing e Redback.
-- Hubs futuros de Dr. Martens, Timberland, Red Wing e Redback criados com `noindex,follow` até receberem conteúdo completo.
-- Páginas de confiança: Sobre, Política Editorial e Divulgação de Afiliados.
-- Imagens de produto em WebP, com carregamento otimizado, texto alternativo e legendas descritivas. Cards, destaques e figuras editoriais usam uma tela 3:2 com `object-fit: contain`, mantendo botas, solas e pull tabs inteiros e centralizados, sem cortes responsivos.
-- Capas padronizadas em WebP para as comparações 500 vs 585 e 550 vs 585, exibindo os dois modelos lado a lado tanto nos artigos quanto em todos os cards que apontam para essas comparações.
-
-## Manutenção
-
-Os arquivos ativos de estilo e JavaScript são versionados como `style-20260824-r10.css`, `analytics-20260821-r2.js` e `main-20260817-r4.js`. Os cabeçalhos Cloudflare aplicam cache longo somente aos arquivos versionados de CSS e JavaScript; HTML e imagens seguem a revalidação padrão do Pages. Ao alterar CSS ou JS em produção, publique sempre uma nova versão de arquivo e atualize as referências HTML.
-
-O Google Analytics usa a propriedade `G-EK6TVJV8CS`. O carregador local não cria conexão com o Google antes do consentimento: ele mostra o painel de cookies, memoriza a opção no armazenamento local do navegador e solicita o `gtag.js` de forma assíncrona somente após “Accept cookies”. A escolha pode ser revista em “Cookie settings” no rodapé. Mantenha esse comportamento e a Política de Privacidade sincronizados ao trocar a ferramenta de medição ou adicionar publicidade.
-
-Os links afiliados da Amazon UK para os modelos 500, 550 e 585 estão ativos nos painéis de compra e configurados com `rel="sponsored nofollow noopener"`. Os painéis foram preparados para receber botões de outros varejistas no futuro. A divulgação curta aparece no final dos artigos, enquanto a página de divulgação detalha os programas participantes. Não publique preços ou disponibilidade fixos, pois ambos podem mudar no varejista.
-
-O arquivo `llms.txt` fica na raiz e apresenta às ferramentas de IA um resumo do BootsGuide e uma seleção das páginas públicas mais relevantes. As páginas HTML também usam `rel="describedby"` para apontar para esse arquivo.
+Consulte UPDATE-2026-10-30.md para alterações e EDITORIAL-RULES.md para próximas pautas. Preparar o ZIP não equivale a publicar o site.
