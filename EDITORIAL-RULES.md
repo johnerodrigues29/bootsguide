@@ -111,3 +111,7 @@ Eight existing pages revised from the 21 August–30 October Search Console expo
 
 ## 3 November 2026
 02/11 waterproof revision was already in the 30/10 package; no duplicate created. User plans to deploy it with the new /comparisons/blundstone-1306-vs-1609/ on 03/11. Official UK 1306/1609 product data, size guide and care guide rechecked; UK size variants reported available. Approved links retained: 1306 https://link.amazon/B0d1KS6oW and 1609 https://link.amazon/B0duWTjpd. 1306 Amazon returned HTTP 503; no verified live Amazon stock claimed. Two-photo boot-pair order 1306 then 1609 everywhere; model-only caption and plain author date. Integrated home, comparisons feature, Blundstone hub, both model reviews, related comparisons, search, sitemap (50 URLs) and llms.txt. Counts: 14 reviews, 14 comparisons, 10 guides. Not deployed by assistant. Calendar keeps original 02/11 slot and records planned delivery on 03/11; do not mark as published without confirmation.
+
+
+## 3 November 2026 — hub organisation
+Brand hubs list reviews first, comparisons second (where available), then guides. Never mix article categories within these sections. Guide cards on brand hubs, the home page and Buying Guides use topic illustrations with no boots or shoes; retain real product photography for review and comparison cards. Seven cover themes serve the ten existing guides.

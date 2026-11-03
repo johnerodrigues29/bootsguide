@@ -1,0 +1,4 @@
+/* Topic illustrations are separate from uncropped product photography. */
+.guide-topic-frame{position:relative;display:block;aspect-ratio:3/2;overflow:hidden;background:#f5f0e7;min-height:0}
+.guide-topic-frame>.guide-topic-image{display:block;position:absolute;inset:0;width:100%;height:100%;max-width:100%;max-height:100%;padding:0;object-fit:cover;object-position:center;transform:none!important}
+[data-hub-category] .index-feature+.card-grid{margin-top:2rem}
