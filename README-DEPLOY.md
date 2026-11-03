@@ -8,10 +8,12 @@ Site completo em HTML, CSS e JavaScript estáticos. Não há instalação nem co
 4. Abra home, guias revisados e Timberland; confira busca, botões Amazon e atalho no celular.
 5. Registre a data real no calendário e conte o acompanhamento a partir dela. Use a inspeção de URLs do Search Console se necessário, sem repetir solicitações diariamente.
 
-Inventário: 14 reviews, 13 comparativos e 10 guias. Sitemap com 49 URLs e exclusões anteriores preservadas. Revisões mantêm suas URLs.
+Inventário: 14 reviews, 14 comparativos e 10 guias. Sitemap com 50 URLs e exclusões anteriores preservadas. Revisões mantêm suas URLs.
 
 _redirects encaminha a antiga variante da URL de caminhada para a página atual. HTTP/www continuam sob a configuração do domínio no Cloudflare.
 
 Mantenha estilos e scripts versionados, tags afiliadas e avisos de comissão. A configuração de analytics existente foi preservada. O calendário é entregue separadamente do site.
 
 Consulte UPDATE-2026-10-30.md para alterações e EDITORIAL-RULES.md para próximas pautas. Preparar o ZIP não equivale a publicar o site.
+
+Pacote de 03/11: contém o comparativo 1306 vs 1609 e toda a revisão anterior, inclusive impermeabilidade e tabela Timberland. Ver UPDATE-2026-11-03.md.
