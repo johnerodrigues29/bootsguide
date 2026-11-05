@@ -115,3 +115,7 @@ Eight existing pages revised from the 21 August–30 October Search Console expo
 
 ## 3 November 2026 — hub organisation
 Brand hubs list reviews first, comparisons second (where available), then guides. Never mix article categories within these sections. Guide cards on brand hubs, the home page and Buying Guides use topic illustrations with no boots or shoes; retain real product photography for review and comparison cards. Seven cover themes serve the ten existing guides.
+
+
+## 5 November 2026 — scheduled guide revisions
+04/11 size-guide and 05/11 lifespan-guide slots completed as existing-URL revisions, delivered together on 05/11. Manufacturer UK fit, lifespan and care sources reviewed. Retain the 1306-specific sizing caveat, matching FAQ/schema and stored-pair inspection. No new affiliate URLs needed; existing links preserved. Keep hub category separation and topic cover assets from 03/11. Prepared for manual upload; publication not confirmed.
